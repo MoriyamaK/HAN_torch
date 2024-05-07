@@ -1,5 +1,6 @@
 # Overview
 Pytorch implementation of Hybrid Attention Network with FinBERT.
+
 The original paper:
 > "Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction."[[arxiv]](https://arxiv.org/abs/1712.02136)
 
@@ -9,10 +10,13 @@ FinBERT paper:
 > "Finbert: A pretrained language model for financial communications."
 [[arxiv]](https://arxiv.org/abs/2006.08097)
 
-This [[repo]](https://github.com/donghyeonk/han) is used as reference
+This [[repo]](https://github.com/donghyeonk/han) is used as reference.
 
 # Dataset
-paper:
+Paper:
 > "Causality-Guided Multi-Memory Interaction Network for Multivariate Stock Price Movement Prediction" [[url]](https://aclanthology.org/2023.acl-long.679/)
 > 
-dataset: https://github.com/BigRoddy/CMIN-Dataset
+Dataset: https://github.com/BigRoddy/CMIN-Dataset
+
+# Future tasks
+* Reducing dev loss vibration.
