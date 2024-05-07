@@ -5,6 +5,7 @@ The original paper:
 
 FinBERT paper:
 > "FinBERT: A Large Language Model for Extracting Information from Financial Text."[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3910214)
+
 > "Finbert: A pretrained language model for financial communications."
 [[arxiv]](https://arxiv.org/abs/2006.08097)
 
