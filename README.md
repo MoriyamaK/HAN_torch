@@ -21,11 +21,11 @@ Dataset: https://github.com/BigRoddy/CMIN-Dataset
 Copy it to {PROJECT_PATH}/data/
 
 # Experiment
-* pip install -r requirements.txt
-* Run dataset.py
-* Run model.py
+* Run `pip install -r requirements.txt`
+* Run `dataset.py`
+* Run `model.py`
   
-DDP(Distributed Data Parallel) is used, so the code may not works in your environment.
+DDP(Distributed Data Parallel) is used, so the code may not works in your environment. If you set up `wandb_setting` properly, you can use WandB.
 
 # Future tasks
-* Reducing dev loss vibration.
+* Dev loss value does not decrease as intended and vibrates significantly. 
